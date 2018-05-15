@@ -32,4 +32,4 @@ def hamster_me(code, message):
     Ans =  ''.join([i for sub in result for i in sub]) 
     return Ans
 
-hamster_me("hhhhammmstteree", "hamster")
+hamster_me("hhhammmstteree", "hamster")
